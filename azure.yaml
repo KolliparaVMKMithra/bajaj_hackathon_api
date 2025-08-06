@@ -1,0 +1,6 @@
+name: bajaj-hackathon-api
+services:
+  - name: bajaj-hackathon-api
+    project: .
+    language: python
+    host: appservice

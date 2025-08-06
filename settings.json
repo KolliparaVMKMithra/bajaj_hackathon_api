@@ -1,0 +1,9 @@
+{
+    "AZURE_OPENAI_API_KEY": "88mr3KbRIdXpycNCMHOqiXWWFn8Gif2URpjgWVmwgSslcNx3dVskJQQJ99BHACYeBjFXJ3w3AAABACOGtm4y",
+    "AZURE_OPENAI_ENDPOINT": "https://bajaj.openai.azure.com/",
+    "OPENAI_API_VERSION": "2024-12-01-preview",
+    "AZURE_OPENAI_CHAT_DEPLOYMENT_NAME": "gpt-4",
+    "SECURITY_API_KEY": "bajaj_hackathon_secret_key_123",
+    "SCM_DO_BUILD_DURING_DEPLOYMENT": "true",
+    "WEBSITE_MOUNT_ENABLED": "1"
+}
